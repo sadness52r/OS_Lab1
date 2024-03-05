@@ -1,0 +1,3 @@
+pi1:bebra1,bebra2
+pi2:dasha,kasha
+pi3:login1,login2
